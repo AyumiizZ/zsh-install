@@ -112,6 +112,3 @@ if [ -f ~/.zsh_aliases ]; then
     source ~/.zsh_aliases;
 fi
 
-# Source for ros
-# source /opt/ros/kinetic/setup.zsh
-# source /home/catkin_ws/devel/setup.zsh
